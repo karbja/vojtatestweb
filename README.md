@@ -1,1 +1,1 @@
-# vojtatestweb
+Mám repozitář na githubu a potřebuji propojit Visual Studio Code s Githubem tak, abych do repozitáře mohl pushovat změny. Můžeš mi prosím napsat jednotlivé příkazy pro příkazovou řádku, jak mám napojit VS code na Github a nahrávat tam jednotlivé změny v kódu? Začni tím, že mě nasměruješ, kde naleznu příkazovou řádku. 
